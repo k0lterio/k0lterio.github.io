@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: #0d1117;
+    color: aliceblue;
+}
+
+section{
+    background-color: aqua;
+}
+.caja1{
+    background-color: bisque;
+}
+
+.caja1 {
+    background-color: aqua;
+}
+
+.caja2 {
+    background-color: blueviolet;
+}
