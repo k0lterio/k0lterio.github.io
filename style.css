@@ -7,17 +7,17 @@ body {
     color: aliceblue;
 }
 
+article{
+    width: 50%;
+    float: left;
+}
+
+aside{
+    width: 50%;
+    float: right;
+}
+
 section{
-    background-color: aqua;
-}
-.caja1{
-    background-color: bisque;
-}
-
-.caja1 {
-    background-color: aqua;
-}
-
-.caja2 {
-    background-color: blueviolet;
+    width: 100%;
+    float: inline-end;
 }
